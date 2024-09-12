@@ -16,7 +16,7 @@ The goal of VasculatureVision is to create a robust and accurate model for segme
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/Krish-Sahu/VasculatureVision
+   git clone https://github.com/arpita-kargaonkar/Vasculature-Vision
    ```
 
 2. Follow the instructions in `k-fold-cv-coco-dataset-generator.ipynb.ipynb` to generate your training and validation datasets.
